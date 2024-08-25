@@ -13,6 +13,7 @@
 		CDCE57A32C7580CE00BF20FC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDCE57A22C7580CE00BF20FC /* Preview Assets.xcassets */; };
 		CDCE57DB2C7AA90100BF20FC /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE57DA2C7AA90100BF20FC /* Card.swift */; };
 		CDCE57DD2C7AAF6800BF20FC /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE57DC2C7AAF6800BF20FC /* CardView.swift */; };
+		CDCE57DF2C7AC83100BF20FC /* EditCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDCE57DE2C7AC83100BF20FC /* EditCards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		CDCE57A22C7580CE00BF20FC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CDCE57DA2C7AA90100BF20FC /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		CDCE57DC2C7AAF6800BF20FC /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		CDCE57DE2C7AC83100BF20FC /* EditCards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditCards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				CDCE579F2C7580CE00BF20FC /* Assets.xcassets */,
 				CDCE57A12C7580CE00BF20FC /* Preview Content */,
 				CDCE57DA2C7AA90100BF20FC /* Card.swift */,
+				CDCE57DE2C7AC83100BF20FC /* EditCards.swift */,
 				CDCE57DC2C7AAF6800BF20FC /* CardView.swift */,
 			);
 			path = Flashzilla;
@@ -146,6 +149,7 @@
 				CDCE579E2C7580CD00BF20FC /* ContentView.swift in Sources */,
 				CDCE57DB2C7AA90100BF20FC /* Card.swift in Sources */,
 				CDCE57DD2C7AAF6800BF20FC /* CardView.swift in Sources */,
+				CDCE57DF2C7AC83100BF20FC /* EditCards.swift in Sources */,
 				CDCE579C2C7580CD00BF20FC /* FlashzillaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
